@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "old-recipe-8e0b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "419ffda8-a482-44a0-9469-78e82be643d6",
+      "database_name": "old-recipe-8e0b-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
